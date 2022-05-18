@@ -1,2 +1,2 @@
-# hello-world
-Link_Reducer
+message = "Elo, world!"
+    print (message)
